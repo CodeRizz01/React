@@ -2,7 +2,7 @@
 
 curly braces in the <h1> tag : this urly barces in the tag is known as "Variable Injection"  
 
-usestate in react - State is a unique thing in react which simply just getting constantly monitored. And any change in the state reRenders the UI on the web, and thats why the state is being designed for 
+**usestate in react** - *State is a unique thing in react which simply just getting constantly monitored. And any change in the state reRenders the UI on the web, and thats why the state is being designed for.*
 
 
 useSate() : useState is a hook that returns you something in the format of array, the first is variable and the second one is method/function
